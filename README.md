@@ -1,3 +1,7 @@
+# Description
+
+Create, delete and change notes quickly in Markdown format
+
 # Getting Started
 
 Install the dependencies and run the project
@@ -27,4 +31,4 @@ export const db = getFirestore(app)
 export const notesCollection = collection(db, "notes")
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+Good luck!
